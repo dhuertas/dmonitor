@@ -1,2 +1,2 @@
 # dmonitor
-Server monitor
+Server monitor using UDP, WebSockets and Node HTTP's server.
